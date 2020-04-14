@@ -1,6 +1,6 @@
 # Automated_curtains
 
-![](images/Automated_curtains.gif)
+![](images/Automated_curtain.gif)
 
 This is a project I made in 2018. 
 
