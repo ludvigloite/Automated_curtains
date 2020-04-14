@@ -1,6 +1,6 @@
 # Automated_curtains
 
-HAR JEG BILDE AV HVORDAN DET FUNKER?
+![](images/Automated_curtains.gif)
 
 This is a project I made in 2018. 
 
