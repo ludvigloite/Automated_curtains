@@ -1,5 +1,7 @@
 # Automated_curtains
 
+HAR JEG BILDE AV HVORDAN DET FUNKER?
+
 This is a project I made in 2018. 
 
 I used two Arduinos, two RF24-chips, a servo motor and a bunch of electronics to radiocontrol the curtains at my dorm. Range between the controller and the curtains were over 30 meters.
